@@ -1,0 +1,6 @@
+Static (
+    Class           ( TM_Buildings )
+    Filename        ( SwitchingOffice.s )
+    Align           ( None )
+    Description     ( SwitchingOffice )
+)
