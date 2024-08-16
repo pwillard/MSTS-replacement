@@ -1,0 +1,6 @@
+Static (
+    Class           ( TM_Buildings )
+    Filename        ( CementWarehouse1.s )
+    Align           ( None )
+    Description     ( CementWarehouse1 )
+)
