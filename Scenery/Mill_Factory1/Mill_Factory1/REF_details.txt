@@ -1,0 +1,6 @@
+Static (
+    Class           ( TM_Buildings )
+    Filename        ( Mill_factory1.s )
+    Align           ( None )
+    Description     ( Mill Factory 1 )
+)
