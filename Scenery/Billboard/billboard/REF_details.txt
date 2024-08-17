@@ -1,0 +1,6 @@
+Static (
+    Class           ( TM_Buildings )
+    Filename        ( billboard.s )
+    Align           ( None )
+    Description     ( billboard )
+)
