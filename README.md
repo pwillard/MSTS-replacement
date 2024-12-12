@@ -1,16 +1,13 @@
 # MSTS-replacement
-Replacements for MSTS default shapes
+These were  originally started as MSTS replacements but started to include more models that could be used to replace items in Open Rails that began life as MSTS items.
 
-USA1, USA2 and Generic replacement shapes for MSTS and ORTS
+These are all in the process of being updated and in a state of flux.
 
-ADDED Barn1 to USA1
-ADDED Billboard to USA1
-REMOVED Apartment
-ADDED Office_1 to USA1
+All are free to use and modify as I have supplied the Blender source files for each model.
 
-Created a mostly cement type simple warehouse with Semi-trailer docks as a replacement for the ugly ones we got as default.
-Added AT&T/NYNEX Switching Building  
+All items are licensed under the Creative Commons Attribution and Non Commercial 4.0 International Public License.
 
+License: CC_BY_NC_4.0
 
 
 
