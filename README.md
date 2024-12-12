@@ -1,5 +1,5 @@
 # MSTS-replacement
-These were  originally started as MSTS replacements but started to include more models that could be used to replace items in Open Rails that began life as MSTS items.
+These were  originally started as MSTS replacements but started to include more models that could be used to ADD new items in Open Rails eventhough the intention was to update MSTS items.
 
 These are all in the process of being updated and in a state of flux.
 
