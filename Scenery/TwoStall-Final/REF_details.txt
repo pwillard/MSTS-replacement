@@ -1,0 +1,7 @@
+Static (
+    Class           ( TM_Buildings )
+    Filename        ( 2stallReparationsDepot.s )
+    Align           ( None )
+    Description     ( Two Stall Reparations Depot )
+)
+
